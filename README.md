@@ -54,7 +54,7 @@ A premium private members' club management platform built from ground up.
 
 **What I built:**
 - **Frontend**: Server-side rendered Nuxt.js with Tailwind CSS, GSAP animations, and Lenis smooth scroll
-- **Backend**: Laravel REST API handling membership tracking, events, and system recovery
+- **Backend**: Laravel REST API handling banner, articles, membership prices, developmet pictures, construction breakdown and much more.
 - **DevOps**: VPS deployment with Apache reverse proxy, PM2 process management, Cloudflare CDN
 - **Features**: Media gallery with Vue 3 (skeleton loaders, pagination), zero downtime deployments
 
@@ -89,9 +89,8 @@ A premium private members' club management platform built from ground up.
 
 ## What I'm Currently Working On
 
-- Building: Expanding Gwadar Gymkhana platform with advanced member analytics and mobile app integration
-- Learning: Next-level performance optimization, advanced Laravel patterns, and modern DevOps practices
-- Open to: Collaborating on full-stack projects, Laravel package development, and mentoring junior developers
+- Building: Expanding Gwadar Gymkhana platform and crafting member portal for it.
+- Learning: Next-level performance optimization, advanced Laravel patterns, advancement in NuxtUI and modern DevOps practices
 
 ---
 
@@ -104,7 +103,7 @@ A premium private members' club management platform built from ground up.
 
 **Full-Stack Architecture**
 - Production-ready Laravel applications
-- Server-side rendering with Nuxt.js
+- SSR/SSG/CSR/Hybrid with Nuxt.js
 - Real-time data synchronization between frontend and backend
 
 **DevOps & Deployment**
