@@ -81,9 +81,9 @@ A premium private members' club management platform built from ground up.
 
 ## 📊 GitHub Stats
 
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzarazzaque&show_icons=true&theme=radical&count_private=true)
+![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=HI-Developer25&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzarazzaque&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HI-Developer25&layout=compact&theme=radical)
 
 ---
 
@@ -125,7 +125,7 @@ I'd love to connect and discuss collaboration opportunities, exciting projects, 
 
 - **Email**: [hamzarazzaque5@gmail.com](mailto:hamzarazzaque5@gmail.com)
 - **Phone**: +92 327 2048735
-- **GitHub**: [github.com/hamzarazzaque](https://github.com/hamzarazzaque)
+- **GitHub**: [github.com/hamzarazzaque](https://github.com/HI-Developer25)
 - **Website**: [gwadargymkhana.com.pk](https://gwadargymkhana.com.pk)
 - **Location**: Karachi, Pakistan 🇵🇰
 
