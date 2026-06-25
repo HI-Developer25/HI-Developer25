@@ -50,7 +50,7 @@ I'm passionate about clean code, performance optimization, and delivering produc
 ### Gwadar Gymkhana – Official Website
 **[gwadargymkhana.com.pk](https://gwadargymkhana.com.pk)** | *Sole Developer*
 
-A premium private members' club management platform built from ground up.
+The official live website for Gwadar Gymkhana, Balochistan's premier private members' club, built from the ground up. The site showcases the club's facilities, membership tiers, reciprocal club network, and ongoing development progress, along with an online payment portal and member account access.
 
 **What I built:**
 - **Frontend**: Server-side rendered Nuxt.js with Tailwind CSS, GSAP animations, and Lenis smooth scroll
