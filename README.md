@@ -1,14 +1,14 @@
-# Hey there, I'm Hamza Razzaque 👋
+# Hey there, I'm Hamza Razzaque
 
-**Full-Stack Developer** | Laravel & Vue.js Enthusiast | Based in Karachi, Pakistan 🇵🇰
+**Full-Stack Developer** | Laravel & Vue.js Enthusiast | Based in Karachi, Pakistan
 
-Welcome to my GitHub! I'm a full-stack developer with **2+ years of production experience** shipping scalable web applications. I specialize in building robust backend systems with **Laravel** and crafting dynamic frontends with **Vue.js** and **Nuxt.js**. From architecting REST APIs to managing Linux deployments, I take complete ownership of projects end-to-end.
+Welcome to my GitHub! I'm a full-stack developer with **2+ years of production experience** shipping scalable web applications. I specialize in building robust backend systems with **Laravel** and modern frontend experiences with **Vue.js** and **Nuxt.js**.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm passionate about clean code, performance optimization, and delivering production-grade solutions. Currently, I'm the **sole developer** behind [gwadargymkhana.com.pk](https://gwadargymkhana.com.pk) – a premium members' club management platform. I thrive in taking projects from concept to deployment with zero supervision and a strong focus on zero downtime during live operations.
+I'm passionate about clean code, performance optimization, and delivering production-grade solutions. Currently, I'm the **sole developer** behind [gwadargymkhana.com.pk](https://gwadargymkhana.com.pk), a premium members' club platform handling real-world complexity at scale.
 
 **What drives me:**
 - Building scalable, maintainable backend systems
@@ -18,7 +18,7 @@ I'm passionate about clean code, performance optimization, and delivering produc
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Backend
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -45,9 +45,9 @@ I'm passionate about clean code, performance optimization, and delivering produc
 
 ---
 
-## 🌟 Highlighted Projects
+## Highlighted Projects
 
-### 🏢 Gwadar Gymkhana – Official Website
+### Gwadar Gymkhana – Official Website
 **[gwadargymkhana.com.pk](https://gwadargymkhana.com.pk)** | *Sole Developer*
 
 A premium private members' club management platform built from ground up.
@@ -62,7 +62,7 @@ A premium private members' club management platform built from ground up.
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### Software Developer | Gwadar Gymkhana *(Nov 2025 – Present)*
 - Architected and shipped gwadargymkhana.com.pk as sole developer
@@ -79,7 +79,7 @@ A premium private members' club management platform built from ground up.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=HI-Developer25&show_icons=true&theme=radical&count_private=true)
 
@@ -87,15 +87,15 @@ A premium private members' club management platform built from ground up.
 
 ---
 
-## 🎯 What I'm Currently Working On
+## What I'm Currently Working On
 
-- 🔭 **Building**: Expanding Gwadar Gymkhana platform with advanced member analytics and mobile app integration
-- 🌱 **Learning**: Next-level performance optimization, advanced Laravel patterns, and modern DevOps practices
-- 💡 **Open to**: Collaborating on full-stack projects, Laravel package development, and mentoring junior developers
+- Building: Expanding Gwadar Gymkhana platform with advanced member analytics and mobile app integration
+- Learning: Next-level performance optimization, advanced Laravel patterns, and modern DevOps practices
+- Open to: Collaborating on full-stack projects, Laravel package development, and mentoring junior developers
 
 ---
 
-## 🛠️ Technical Expertise
+## Technical Expertise
 
 **API Development & Integration**
 - RESTful API design with clean OOP patterns
@@ -119,7 +119,7 @@ A premium private members' club management platform built from ground up.
 
 ---
 
-## 📫 Get In Touch
+## Get In Touch
 
 I'd love to connect and discuss collaboration opportunities, exciting projects, or just tech in general!
 
@@ -127,36 +127,36 @@ I'd love to connect and discuss collaboration opportunities, exciting projects, 
 - **Phone**: +92 327 2048735
 - **GitHub**: [github.com/hamzarazzaque](https://github.com/HI-Developer25)
 - **Website**: [gwadargymkhana.com.pk](https://gwadargymkhana.com.pk)
-- **Location**: Karachi, Pakistan 🇵🇰
+- **Location**: Karachi, Pakistan
 
 ---
 
-## 🎓 Education
+## Education
 
 - **Pre-Engineering (HSC-I & II)** – DJ Sindh Govt. Science College, BIEK, Karachi *(2025)* – 70%
 - **Matriculation (Science)** – Roshni Public School, BSEK, Karachi *(2023)* – 84%
 
 ---
 
-## ⚡ Fun Facts
+## Fun Facts
 
-- 🏗️ Built a complete web platform as a solo developer while maintaining zero downtime for live systems
-- 🚀 Passionate about code quality and best practices – REST APIs and OOP design are my playground
-- 💪 From ERP systems to payment integrations to smooth animations – I love the full stack
-- 🎯 Driven by continuous improvement and delivering solutions that scale
+- Built a complete web platform as a solo developer while maintaining zero downtime for live systems
+- Passionate about code quality and best practices – REST APIs and OOP design are my playground
+- From ERP systems to payment integrations to smooth animations – I love the full stack
+- Driven by continuous improvement and delivering solutions that scale
 
 ---
 
-## 💬 Let's Build Something Great!
+## Let's Build Something Great!
 
-Whether you're interested in discussing full-stack development, Laravel best practices, Vue.js optimization, or collaborating on your next big project – I'm here and excited to connect with fellow developers and innovators!
+Whether you're interested in discussing full-stack development, Laravel best practices, Vue.js optimization, or collaborating on your next big project – I'm here and excited to connect with fellow developers and businesses!
 
-**Happy coding!** 🚀
+**Happy coding!**
 
 ---
 
 <div align="center">
 
-**⭐ If you find my work interesting, feel free to star my repositories and follow me on GitHub!**
+**If you find my work interesting, feel free to star my repositories and follow me on GitHub!**
 
 </div>
