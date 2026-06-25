@@ -81,9 +81,9 @@ The official live website for Gwadar Gymkhana, Balochistan's premier private mem
 
 ## GitHub Stats
 
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=HI-Developer25&show_icons=true&theme=radical&count_private=true)
+![Hamza's GitHub stats](https://hi-stats-ashen.vercel.app/api?username=HI-Developer25&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HI-Developer25&layout=compact&theme=radical)
+![Top Languages](https://hi-stats-ashen.vercel.app/api/top-langs/?username=HI-Developer25&layout=compact&theme=radical)
 
 ---
 
