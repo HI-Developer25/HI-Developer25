@@ -1,4 +1,4 @@
-# Hey there, I'm Hamza Razzaque
+# Hey there, I'm Hamza Razzaque 👋
 
 **Full-Stack Developer** | Laravel & Vue.js Enthusiast | Based in Karachi, Pakistan
 
@@ -21,27 +21,27 @@ I'm passionate about clean code, performance optimization, and delivering produc
 ## Tech Stack
 
 ### Backend
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Yii](https://img.shields.io/badge/-Yii-Framework-brightgreen?style=flat)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-005571?style=flat&logo=postman&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Yii](https://img.shields.io/badge/Yii-005A9C?style=flat&logo=yii&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE4623?style=flat&logo=codeigniter&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat&logo=fastapi&logoColor=white)
 
 ### Frontend
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)
 
 ### Database & DevOps
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Apache](https://img.shields.io/badge/-Apache-D09B2C?style=flat&logo=apache&logoColor=black)
-![PM2](https://img.shields.io/badge/-PM2-2B037A?style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat&logo=pm2&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
 ---
 
@@ -54,7 +54,7 @@ The official live website for Gwadar Gymkhana, Balochistan's premier private mem
 
 **What I built:**
 - **Frontend**: Server-side rendered Nuxt.js with Tailwind CSS, GSAP animations, and Lenis smooth scroll
-- **Backend**: Laravel REST API handling banner, articles, membership prices, developmet pictures, construction breakdown and much more.
+- **Backend**: Laravel REST API handling banners, articles, membership prices, development pictures, construction breakdowns, and much more
 - **DevOps**: VPS deployment with Apache reverse proxy, PM2 process management, Cloudflare CDN
 - **Features**: Media gallery with Vue 3 (skeleton loaders, pagination), zero downtime deployments
 
@@ -89,8 +89,8 @@ The official live website for Gwadar Gymkhana, Balochistan's premier private mem
 
 ## What I'm Currently Working On
 
-- Building: Expanding Gwadar Gymkhana platform and crafting member portal for it.
-- Learning: Next-level performance optimization, advanced Laravel patterns, advancement in NuxtUI and modern DevOps practices
+- **Building**: Expanding the Gwadar Gymkhana platform and crafting a member portal for it
+- **Learning**: Next-level performance optimization, advanced Laravel patterns, NuxtUI, and modern DevOps practices
 
 ---
 
@@ -124,7 +124,7 @@ I'd love to connect and discuss collaboration opportunities, exciting projects, 
 
 - **Email**: [hamzarazzaque5@gmail.com](mailto:hamzarazzaque5@gmail.com)
 - **Phone**: +92 327 2048735
-- **GitHub**: [github.com/hamzarazzaque](https://github.com/HI-Developer25)
+- **GitHub**: [github.com/HI-Developer25](https://github.com/HI-Developer25)
 - **Website**: [gwadargymkhana.com.pk](https://gwadargymkhana.com.pk)
 - **Location**: Karachi, Pakistan
 
