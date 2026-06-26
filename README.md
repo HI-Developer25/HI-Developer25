@@ -1,6 +1,6 @@
 # Hey there, I'm Hamza Razzaque 👋
 
-**Full-Stack Engineer | Laravel • Vue/Nuxt • DevOps • Production Systems | Based in Karachi, Pakistan
+##Full-Stack Engineer | Laravel • Vue/Nuxt • DevOps • Production Systems | Based in Karachi, Pakistan
 
 Welcome to my GitHub! I'm a full-stack developer with **2+ years of production experience** shipping scalable web applications. I specialize in building robust backend systems with **Laravel** and modern frontend experiences with **Vue.js** and **Nuxt.js**.
 
