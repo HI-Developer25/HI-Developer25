@@ -1,6 +1,6 @@
 # Hey there, I'm Hamza Razzaque 👋
 
-**Full-Stack Developer** | Laravel & Vue.js Enthusiast | Based in Karachi, Pakistan
+**Full-Stack Engineer | Laravel • Vue/Nuxt • DevOps • Production Systems | Based in Karachi, Pakistan
 
 Welcome to my GitHub! I'm a full-stack developer with **2+ years of production experience** shipping scalable web applications. I specialize in building robust backend systems with **Laravel** and modern frontend experiences with **Vue.js** and **Nuxt.js**.
 
@@ -58,7 +58,16 @@ The official live website for Gwadar Gymkhana, Balochistan's premier private mem
 **What I built:**
 - **Frontend**: Server-side rendered Nuxt.js with Tailwind CSS, GSAP animations, and Lenis smooth scroll
 - **Backend**: Laravel REST API handling banners, articles, membership prices, development pictures, construction breakdowns, and much more
-- **DevOps**: VPS deployment with Apache reverse proxy, PM2 process management, Cloudflare CDN
+- **Infrastructure & Operations**
+
+* Architected and deployed the complete production environment on a Linux VPS.
+* Configured GitHub Actions for automated deployments.
+* Managed Nuxt SSR applications with PM2 and ecosystem configuration files.
+* Built separate production and staging environments.
+* Secured staging infrastructure using Cloudflare Access (Zero Trust).
+* Configured Apache reverse proxy, SSL, DNS, and Cloudflare integration.
+* Managed production email workflows and self-hosted webmail infrastructure to satisfy business communication requirements.
+
 - **Features**: Media gallery with Vue 3 (skeleton loaders, pagination), zero downtime deployments
 
 **Impact**: Serves as the official web presence for the Gymkhana with production-grade reliability.
@@ -103,6 +112,24 @@ The official live website for Gwadar Gymkhana, Balochistan's premier private mem
 - RESTful API design with clean OOP patterns
 - Third-party integrations: Payment gateways, courier APIs, WordPress/Shopify
 - Database optimization and query performance tuning
+
+## Production Engineering
+
+Beyond application development, I take ownership of production infrastructure and deployment workflows.
+
+* Designed and maintain CI/CD pipelines with GitHub Actions for every project under my responsibility.
+* Manage multiple production and staging environments using PM2 ecosystem configurations.
+* Deploy and maintain Nuxt SSR applications behind Apache reverse proxy on Linux VPS servers.
+* Configure Cloudflare for DNS, CDN, SSL, caching, security, and staging protection using Cloudflare Access.
+* Operate production environments with zero-downtime deployment strategies.
+* Administer self-hosted email infrastructure and mail identities to meet organizational requirements beyond managed service limitations.
+
+## Production Experience
+
+* Sole developer responsible for the architecture, implementation, deployment, and maintenance of a live production platform.
+* Experience managing the complete software lifecycle from feature planning to production deployment.
+* Responsible for frontend, backend, infrastructure, CI/CD, security, and operational maintenance.
+* Comfortable debugging issues across the entire stack rather than within a single framework.
 
 **Full-Stack Architecture**
 - Production-ready Laravel applications
