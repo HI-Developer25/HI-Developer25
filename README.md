@@ -41,6 +41,8 @@ I'm passionate about clean code, performance optimization, and delivering produc
 [![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat&logo=pm2&logoColor=white)](https://pm2.keymetrics.io/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
+[![Webuzo](https://img.shields.io/badge/Webuzo-2C3E50?style=flat&logo=softaculous&logoColor=white)](https://webuzo.com/)
+[![Plesk](https://img.shields.io/badge/Plesk-52BBE6?style=flat&logo=plesk&logoColor=white)](https://www.plesk.com/)
 
 ---
 
