@@ -68,21 +68,24 @@ I'm passionate about clean code, performance optimization, and delivering produc
 The official live website for Gwadar Gymkhana, Balochistan's premier private members' club, built from the ground up. The site showcases the club's facilities, membership tiers, reciprocal club network, and ongoing development progress, along with an online payment portal and member account access.
 
 **What I built:**
-- **Frontend**: Server-side rendered Nuxt.js with Tailwind CSS, GSAP animations, and Lenis smooth scroll
-- **Backend**: Laravel REST API handling banners, articles, membership prices, development pictures, construction breakdowns, and much more
-- **Infrastructure & Operations**:
 
-- Architected and deployed the complete production environment on a Linux VPS.
-- Configured GitHub Actions for automated deployments.
-- Managed Nuxt SSR applications with PM2 and ecosystem configuration files.
-- Built separate production and staging environments.
-- Secured staging infrastructure using Cloudflare Access (Zero Trust).
-- Configured Apache reverse proxy, SSL, DNS, and Cloudflare integration.
-- Managed production email workflows and self-hosted webmail infrastructure to satisfy business communication requirements.
+* **Frontend**: Server-side rendered Nuxt.js with Tailwind CSS, GSAP animations, and Lenis smooth scroll.
+* **Backend**: Laravel REST API handling banners, articles, membership prices, development pictures, construction breakdowns, and much more.
+* **Infrastructure & Operations**:
 
-- **Features**: Media gallery with Vue 3 (skeleton loaders, pagination), zero downtime deployments
+  * Architected and deployed the complete production environment on a Linux VPS.
+  * Configured GitHub Actions for automated deployments.
+  * Managed Nuxt SSR applications with PM2 and ecosystem configuration files.
+  * Built separate production and staging environments.
+  * Secured staging infrastructure using Cloudflare Access (Zero Trust).
+  * Configured Apache Reverse Proxy, SSL, DNS, and Cloudflare integration.
+  * Managed production email workflows and self-hosted webmail infrastructure to satisfy business communication requirements.
+* **Features**:
 
-**Impact**: Serves as the official web presence for the Gymkhana with production-grade reliability.
+  * Media gallery with Vue 3 (skeleton loaders and pagination).
+  * Zero-downtime deployments.
+
+**Impact:** Serves as the official web presence for the Gymkhana with production-grade reliability.
 
 ---
 
