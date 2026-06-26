@@ -34,17 +34,29 @@ I'm passionate about clean code, performance optimization, and delivering produc
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)](https://gsap.com/)
 
-### Database, DevOps & Tools
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)](https://httpd.apache.org/)
-[![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat&logo=pm2&logoColor=white)](https://pm2.keymetrics.io/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
+### Database, DevOps & Infrastructure
+
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)](https://www.mysql.com/)
+[![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat\&logo=microsoftsqlserver\&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+
+[![Linux Administration](https://img.shields.io/badge/Linux%20Administration-FCC624?style=flat\&logo=linux\&logoColor=black)](https://www.linux.org/)
+[![Apache Reverse Proxy](https://img.shields.io/badge/Apache%20Reverse%20Proxy-D22128?style=flat\&logo=apache\&logoColor=white)](https://httpd.apache.org/)
+[![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat\&logo=pm2\&logoColor=white)](https://pm2.keymetrics.io/)
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)](https://git-scm.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat\&logo=githubactions\&logoColor=white)](https://github.com/features/actions)
+
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat\&logo=cloudflare\&logoColor=white)](https://www.cloudflare.com/)
+[![Cloudflare Access](https://img.shields.io/badge/Cloudflare%20Access-F38020?style=flat\&logo=cloudflare\&logoColor=white)](https://www.cloudflare.com/zero-trust/products/access/)
+
+[![SMTP](https://img.shields.io/badge/SMTP-0078D4?style=flat\&logo=maildotru\&logoColor=white)](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol)
+[![IMAP](https://img.shields.io/badge/IMAP-00599C?style=flat\&logo=maildotru\&logoColor=white)](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol)
+
+[![SSH](https://img.shields.io/badge/SSH-000000?style=flat\&logo=gnubash\&logoColor=white)](https://www.openssh.com/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat\&logo=gnubash\&logoColor=white)](https://www.gnu.org/software/bash/)
+
 [![Webuzo](https://img.shields.io/badge/Webuzo-2C3E50?style=flat)](https://webuzo.com/)
-[![Plesk](https://img.shields.io/badge/Plesk-52BBE6?style=flat&logo=plesk&logoColor=white)](https://www.plesk.com/)
+[![Plesk](https://img.shields.io/badge/Plesk-52BBE6?style=flat\&logo=plesk\&logoColor=white)](https://www.plesk.com/)
 
 ---
 
