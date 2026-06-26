@@ -70,15 +70,15 @@ The official live website for Gwadar Gymkhana, Balochistan's premier private mem
 **What I built:**
 - **Frontend**: Server-side rendered Nuxt.js with Tailwind CSS, GSAP animations, and Lenis smooth scroll
 - **Backend**: Laravel REST API handling banners, articles, membership prices, development pictures, construction breakdowns, and much more
-- **Infrastructure & Operations**
+- **Infrastructure & Operations**:
 
-* Architected and deployed the complete production environment on a Linux VPS.
-* Configured GitHub Actions for automated deployments.
-* Managed Nuxt SSR applications with PM2 and ecosystem configuration files.
-* Built separate production and staging environments.
-* Secured staging infrastructure using Cloudflare Access (Zero Trust).
-* Configured Apache reverse proxy, SSL, DNS, and Cloudflare integration.
-* Managed production email workflows and self-hosted webmail infrastructure to satisfy business communication requirements.
+- Architected and deployed the complete production environment on a Linux VPS.
+- Configured GitHub Actions for automated deployments.
+- Managed Nuxt SSR applications with PM2 and ecosystem configuration files.
+- Built separate production and staging environments.
+- Secured staging infrastructure using Cloudflare Access (Zero Trust).
+- Configured Apache reverse proxy, SSL, DNS, and Cloudflare integration.
+- Managed production email workflows and self-hosted webmail infrastructure to satisfy business communication requirements.
 
 - **Features**: Media gallery with Vue 3 (skeleton loaders, pagination), zero downtime deployments
 
