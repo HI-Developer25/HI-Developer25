@@ -80,10 +80,10 @@ The official live website for Gwadar Gymkhana, Balochistan's premier private mem
   * Secured staging infrastructure using Cloudflare Access (Zero Trust).
   * Configured Apache Reverse Proxy, SSL, DNS, and Cloudflare integration.
   * Managed production email workflows and self-hosted webmail infrastructure to satisfy business communication requirements.
-* **Features**:
+* **Current Work**:
 
-  * Media gallery with Vue 3 (skeleton loaders and pagination).
-  * Zero-downtime deployments.
+  * Building a production-grade Member Portal with Nuxt UI.
+  * Expanding the digital platform with new business modules.
 
 **Impact:** Serves as the official web presence for the Gymkhana with production-grade reliability.
 
