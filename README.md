@@ -29,6 +29,7 @@ I'm passionate about clean code, performance optimization, and delivering produc
 ### Frontend
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
 [![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)](https://nuxt.com/)
+[![Nuxt UI](https://img.shields.io/badge/Nuxt%20UI-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)](https://ui.nuxt.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)](https://gsap.com/)
