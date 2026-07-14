@@ -30,9 +30,12 @@ I'm passionate about clean code, performance optimization, and delivering produc
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
 [![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)](https://nuxt.com/)
 [![Nuxt UI](https://img.shields.io/badge/Nuxt%20UI-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)](https://ui.nuxt.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)](https://gsap.com/)
+[![Nitro](https://img.shields.io/badge/Nitro-FBBF24?style=flat&logo=nitro&logoColor=black)](https://nitro.build/)
+[![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)](https://zod.dev/)
 
 ### Database, DevOps & Infrastructure
 
@@ -82,10 +85,28 @@ The official live website for Gwadar Gymkhana, Balochistan's premier private mem
   * Managed production email workflows and self-hosted webmail infrastructure to satisfy business communication requirements.
 * **Current Work**:
 
-  * Building a production-grade Member Portal with Nuxt UI.
   * Expanding the digital platform with new business modules.
 
 **Impact:** Serves as the official web presence for the Gymkhana with production-grade reliability.
+
+---
+
+### Gwadar Gymkhana – Member Self-Service Portal
+**Production-grade member portal** | *Sole Developer* | *Built in ~2 months*
+
+A server-rendered **Nuxt 4** application giving members a secure, mobile-friendly space to manage their membership entirely online — from OTP login through payments, documents, and support requests.
+
+**What I built:**
+
+* **Backend-for-Frontend (BFF) architecture**: every browser request hits the app's own Nitro server routes, which proxy to an external Laravel API secured with Laravel Sanctum — keeping session cookies `httpOnly`, hiding backend URLs, and centralizing CSRF handling on the server.
+* **Passwordless authentication**: phone number + 6-digit OTP, session-based via Sanctum with automatic CSRF priming and a global SSR-safe route guard.
+* **Online dues payment**: transaction-type selection, automatic bank-charge calculation, and an auto-submitting hidden-form redirect to the bank's hosted SSO gateway, with a public payment-status verification page.
+* **Bilingual (English/Urdu) RTL-aware forms** for introduction-letter requests, including cascading country → city → club selection and auto-calculated fees.
+* **Additional modules**: streamed PDF documents (payment schedule, club rules & by-laws), a reciprocal-clubs directory grouped by country, complaints/inquiries with image attachments, and contact-settings management.
+* **Engineering practices**: strict TypeScript end-to-end, Zod-validated forms, Nuxt UI v4 + Tailwind CSS v4 design system, dark/light mode, command palette, and keyboard shortcuts.
+* **CI/CD**: GitHub Actions pipeline (lint → typecheck gate) with automated `rsync` deployment to separate production and staging PM2 processes on the VPS.
+
+**Impact:** Replaces manual, in-person membership administration with a self-service digital platform covering authentication, payments, documents, and support.
 
 ---
 
@@ -116,8 +137,9 @@ The official live website for Gwadar Gymkhana, Balochistan's premier private mem
 
 ## What I'm Currently Working On
 
-- **Building**: Expanding the Gwadar Gymkhana platform and crafting a member portal for it
-- **Learning**: Next-level performance optimization, advanced Laravel patterns, NuxtUI, and modern DevOps practices
+- **Shipped**: Nuxt 4 Member Self-Service Portal for Gwadar Gymkhana — BFF proxy architecture, OTP auth, payment gateway SSO, bilingual RTL forms, and full CI/CD
+- **Building**: Expanding the Gwadar Gymkhana platform with new business modules
+- **Learning**: Next-level performance optimization, advanced Laravel patterns, and modern DevOps practices
 
 ---
 
