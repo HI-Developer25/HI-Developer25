@@ -57,7 +57,7 @@ class HamzaRazzaque
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,php,vue,nuxtjs,ts,js,tailwind,vite&theme=dark" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,linux,bash,apache,cloudflare,git,github,githubactions&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,linux,bash,pnpm,cloudflare,git,github,githubactions&theme=dark" />
 </p>
 
 <p align="center">
@@ -123,17 +123,17 @@ class HamzaRazzaque
       <a href="https://github.com/HI-Developer25/professional-projects/tree/main/VSH-News-Advertising-Platform"><b>📖 Read case study →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>📦 ERP & Logistics Systems</h3>
-      <img src="https://img.shields.io/badge/✅%20COMPLETED-blue?style=flat-square" />
-      <img src="https://img.shields.io/badge/Backend%20Developer-black?style=flat-square" />
-      <p>ERP modules for small retail businesses.</p>
+      <h3>🏢 Vision Gwadar — Management System</h3>
+      <img src="https://img.shields.io/badge/🟢%20LIVE-success?style=flat-square" />
+      <img src="https://img.shields.io/badge/Sole%20Developer-black?style=flat-square" />
+      <p>Back-office platform for a property developer.</p>
       <ul>
-        <li>Inventory, POS, sales, purchasing</li>
-        <li>Laravel, Yii, and CodeIgniter</li>
-        <li>4+ courier APIs for live tracking</li>
-        <li>500+ orders a day</li>
+        <li>Customer files, instalments, invoices, receipts</li>
+        <li>Monthly recovery reports with PDF export</li>
+        <li>59 permission keys, 2FA, and passkeys</li>
+        <li>Laravel 13 + Inertia + Vue 3, PHPStan level 7</li>
       </ul>
-      <a href="https://github.com/HI-Developer25/professional-projects/tree/main/ERP-Logistics-System"><b>📖 Read case study →</b></a>
+      <a href="https://github.com/HI-Developer25/professional-projects/tree/main/Vision-Gwadar-Management-System"><b>📖 Read case study →</b></a>
     </td>
   </tr>
 </table>
