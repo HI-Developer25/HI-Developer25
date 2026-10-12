@@ -1,228 +1,226 @@
-# Hey there, I'm Hamza Razzaque 👋
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DC82,50:2088FF,100:FF2D20&height=220&section=header&text=Hamza%20Razzaque&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20I%20build%20it.%20I%20ship%20it.%20I%20run%20it.&descAlignY=58&descSize=18" />
+</p>
 
-## Software Engineer | Laravel • Vue/Nuxt • DevOps • Production Systems | Based in Karachi, Pakistan
+<p align="center">
+  <a href="https://github.com/HI-Developer25">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00DC82&center=true&vCenter=true&width=650&lines=Laravel+%E2%80%A2+Vue+%E2%80%A2+Nuxt+%E2%80%A2+DevOps;Sole+developer+of+a+live+multi-app+platform;From+database+to+server+%E2%80%94+I+own+it+all;4+production+apps+shipped+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-Welcome to my GitHub! I'm a full-stack developer with **2+ years of production experience** shipping scalable web applications. I specialize in building robust backend systems with **Laravel** and modern frontend experiences with **Vue.js** and **Nuxt.js**.
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Engineer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Based%20in-Karachi,%20Pakistan-informational?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Actively%20Building-success?style=for-the-badge" />
+</p>
 
----
-
-## About Me
-
-I'm passionate about clean code, performance optimization, and delivering production-grade solutions. Currently, I'm the **sole developer** behind [gwadargymkhana.com.pk](https://gwadargymkhana.com.pk), a premium members' club platform handling real-world complexity at scale.
-
-**What drives me:**
-- Building scalable, maintainable backend systems
-- Crafting delightful user experiences with modern frontend frameworks
-- Solving complex integration challenges (APIs, payment gateways, logistics)
-- Optimizing performance and security across the full stack
-
----
-
-## Tech Stack
-### Backend
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
-[![Yii](https://img.shields.io/badge/Yii-005A9C?style=flat&logo=yii&logoColor=white)](https://www.yiiframework.com/)
-[![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE4623?style=flat&logo=codeigniter&logoColor=white)](https://codeigniter.com/)
-[![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat&logo=fastapi&logoColor=white)](https://restfulapi.net/)
-
-### Frontend
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
-[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)](https://nuxt.com/)
-[![Nuxt UI](https://img.shields.io/badge/Nuxt%20UI-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)](https://ui.nuxt.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white)](https://gsap.com/)
-[![Nitro](https://img.shields.io/badge/Nitro-FBBF24?style=flat&logo=nitro&logoColor=black)](https://nitro.build/)
-[![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)](https://zod.dev/)
-
-### Database, DevOps & Infrastructure
-
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)](https://www.mysql.com/)
-[![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat\&logo=microsoftsqlserver\&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-
-[![Linux Administration](https://img.shields.io/badge/Linux%20Administration-FCC624?style=flat\&logo=linux\&logoColor=black)](https://www.linux.org/)
-[![Apache Reverse Proxy](https://img.shields.io/badge/Apache%20Reverse%20Proxy-D22128?style=flat\&logo=apache\&logoColor=white)](https://httpd.apache.org/)
-[![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat\&logo=pm2\&logoColor=white)](https://pm2.keymetrics.io/)
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)](https://git-scm.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat\&logo=githubactions\&logoColor=white)](https://github.com/features/actions)
-
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat\&logo=cloudflare\&logoColor=white)](https://www.cloudflare.com/)
-[![Cloudflare Access](https://img.shields.io/badge/Cloudflare%20Access-F38020?style=flat\&logo=cloudflare\&logoColor=white)](https://www.cloudflare.com/zero-trust/products/access/)
-
-[![SMTP](https://img.shields.io/badge/SMTP-0078D4?style=flat\&logo=maildotru\&logoColor=white)](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol)
-[![IMAP](https://img.shields.io/badge/IMAP-00599C?style=flat\&logo=maildotru\&logoColor=white)](https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol)
-
-[![SSH](https://img.shields.io/badge/SSH-000000?style=flat\&logo=gnubash\&logoColor=white)](https://www.openssh.com/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat\&logo=gnubash\&logoColor=white)](https://www.gnu.org/software/bash/)
-
-[![Webuzo](https://img.shields.io/badge/Webuzo-2C3E50?style=flat)](https://webuzo.com/)
-[![Plesk](https://img.shields.io/badge/Plesk-52BBE6?style=flat\&logo=plesk\&logoColor=white)](https://www.plesk.com/)
+<p align="center">
+  <a href="https://github.com/HI-Developer25/professional-projects"><img src="https://img.shields.io/badge/📂%20See%20My%20Portfolio-6f42c1?style=for-the-badge" /></a>
+  <a href="https://gwadargymkhana.com.pk"><img src="https://img.shields.io/badge/🌐%20Live%20Project-2b6cb0?style=for-the-badge" /></a>
+  <a href="mailto:hamzarazzaque5@gmail.com"><img src="https://img.shields.io/badge/✉️%20Hire%20Me-D14836?style=for-the-badge" /></a>
+</p>
 
 ---
 
-## Highlighted Projects
+## 👨‍💻 About Me
 
-### Gwadar Gymkhana – Official Website
-**[gwadargymkhana.com.pk](https://gwadargymkhana.com.pk)** | *Sole Developer*
+```php
+<?php
 
-The official live website for Gwadar Gymkhana, Balochistan's premier private members' club, built from the ground up. The site showcases the club's facilities, membership tiers, reciprocal club network, and ongoing development progress, along with an online payment portal and member account access.
+class HamzaRazzaque
+{
+    public string $role     = 'Full-Stack Software Engineer';
+    public string $location = 'Karachi, Pakistan';
+    public string $current  = 'Sole developer @ Gwadar Gymkhana';
 
-**What I built:**
+    public array $backend   = ['Laravel', 'PHP', 'Sanctum', 'Yii', 'CodeIgniter'];
+    public array $frontend  = ['Vue 3', 'Nuxt 4', 'TypeScript', 'Tailwind', 'GSAP'];
+    public array $devops    = ['Linux VPS', 'PM2', 'Apache', 'Cloudflare', 'GitHub Actions'];
 
-* **Frontend**: Server-side rendered Nuxt.js with Tailwind CSS, GSAP animations, and Lenis smooth scroll.
-* **Backend**: Laravel REST API handling banners, articles, membership prices, development pictures, construction breakdowns, and much more.
-* **Infrastructure & Operations**:
+    public function motto(): string
+    {
+        return "I don't just write the code. I ship it and keep it running.";
+    }
+}
+```
 
-  * Architected and deployed the complete production environment on a Linux VPS.
-  * Configured GitHub Actions for automated deployments.
-  * Managed Nuxt SSR applications with PM2 and ecosystem configuration files.
-  * Built separate production and staging environments.
-  * Secured staging infrastructure using Cloudflare Access (Zero Trust).
-  * Configured Apache Reverse Proxy, SSL, DNS, and Cloudflare integration.
-  * Managed production email workflows and self-hosted webmail infrastructure to satisfy business communication requirements.
-* **Current Work**:
-
-  * Expanding the digital platform with new business modules.
-
-**Impact:** Serves as the official web presence for the Gymkhana with production-grade reliability.
-
----
-
-### Gwadar Gymkhana – Member Self-Service Portal
-**Production-grade member portal** | *Sole Developer* | *Built in ~2 months*
-
-A server-rendered **Nuxt 4** application giving members a secure, mobile-friendly space to manage their membership entirely online — from OTP login through payments, documents, and support requests.
-
-**What I built:**
-
-* **Backend-for-Frontend (BFF) architecture**: every browser request hits the app's own Nitro server routes, which proxy to an external Laravel API secured with Laravel Sanctum — keeping session cookies `httpOnly`, hiding backend URLs, and centralizing CSRF handling on the server.
-* **Passwordless authentication**: phone number + 6-digit OTP, session-based via Sanctum with automatic CSRF priming and a global SSR-safe route guard.
-* **Online dues payment**: transaction-type selection, automatic bank-charge calculation, and an auto-submitting hidden-form redirect to the bank's hosted SSO gateway, with a public payment-status verification page.
-* **Bilingual (English/Urdu) RTL-aware forms** for introduction-letter requests, including cascading country → city → club selection and auto-calculated fees.
-* **Additional modules**: streamed PDF documents (payment schedule, club rules & by-laws), a reciprocal-clubs directory grouped by country, complaints/inquiries with image attachments, and contact-settings management.
-* **Engineering practices**: strict TypeScript end-to-end, Zod-validated forms, Nuxt UI v4 + Tailwind CSS v4 design system, dark/light mode, command palette, and keyboard shortcuts.
-* **CI/CD**: GitHub Actions pipeline (lint → typecheck gate) with automated `rsync` deployment to separate production and staging PM2 processes on the VPS.
-
-**Impact:** Replaces manual, in-person membership administration with a self-service digital platform covering authentication, payments, documents, and support.
+- 🏛️ I am the **only developer** behind a live platform with **more than one app** in production.
+- 🧠 I own **everything**: database, API, frontend, servers, CI/CD, and daily support.
+- 💳 I love hard integrations: **payment gateways**, **CRMs**, and **courier APIs**.
+- 🔐 I build with security first: `httpOnly` cookies, CSRF, and **signed payment redirects**.
 
 ---
 
-## Professional Experience
+## 🧰 Tech Stack
 
-### Software Developer | Gwadar Gymkhana *(Nov 2025 – Present)*
-- Architected and shipped gwadargymkhana.com.pk as sole developer
-- Developed membership tracking, event management, and system recovery modules
-- Engineered Laravel-backed media gallery API with Vue 3 frontend (50% perceived load time reduction)
-- Deployed on Webuzo VPS with Apache, PM2, and Cloudflare integration
-- Maintained 3+ WordPress and PHP websites with zero security incidents
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,vue,nuxtjs,ts,js,tailwind,vite&theme=dark" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,linux,bash,apache,cloudflare,git,github,githubactions&theme=dark" />
+</p>
 
-### PHP Developer | Cartzlink *(Nov 2024 – Apr 2025)*
-- Developed 5+ ERP modules (inventory, invoicing, sales) in Laravel, Yii, and CodeIgniter
-- Integrated 4+ third-party courier APIs for real-time shipment tracking
-- Optimized POS inventory sync logic (50% reduction in stock discrepancies)
-- Processed 500+ daily orders for SME clients with zero regression incidents
-
----
-
-## GitHub Stats
-
-![Hamza's GitHub stats](https://hi-stats-ashen.vercel.app/api?username=HI-Developer25&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://hi-stats-ashen.vercel.app/api/top-langs/?username=HI-Developer25&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel%20Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Yii-005A9C?style=flat-square&logo=yii&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EE4623?style=flat-square&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt%20UI-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webuzo-2C3E50?style=flat-square" />
+  <img src="https://img.shields.io/badge/Plesk-52BBE6?style=flat-square&logo=plesk&logoColor=white" />
+</p>
 
 ---
 
-## What I'm Currently Working On
+## 🚀 Things I Have Shipped
 
-- **Shipped**: Nuxt 4 Member Self-Service Portal for Gwadar Gymkhana — BFF proxy architecture, OTP auth, payment gateway SSO, bilingual RTL forms, and full CI/CD
-- **Building**: Expanding the Gwadar Gymkhana platform with new business modules
-- **Learning**: Next-level performance optimization, advanced Laravel patterns, and modern DevOps practices
+> 🔒 The code is private (it belongs to my employers), but every project has a full case study in my **[portfolio repo](https://github.com/HI-Developer25/professional-projects)**.
 
----
-
-## Technical Expertise
-
-**API Development & Integration**
-- RESTful API design with clean OOP patterns
-- Third-party integrations: Payment gateways, courier APIs, WordPress/Shopify
-- Database optimization and query performance tuning
-
-## Production Engineering
-
-Beyond application development, I take ownership of production infrastructure and deployment workflows.
-
-* Designed and maintain CI/CD pipelines with GitHub Actions for every project under my responsibility.
-* Manage multiple production and staging environments using PM2 ecosystem configurations.
-* Deploy and maintain Nuxt SSR applications behind Apache reverse proxy on Linux VPS servers.
-* Configure Cloudflare for DNS, CDN, SSL, caching, security, and staging protection using Cloudflare Access.
-* Operate production environments with zero-downtime deployment strategies.
-* Administer self-hosted email infrastructure and mail identities to meet organizational requirements beyond managed service limitations.
-
-## Production Experience
-
-* Sole developer responsible for the architecture, implementation, deployment, and maintenance of a live production platform.
-* Experience managing the complete software lifecycle from feature planning to production deployment.
-* Responsible for frontend, backend, infrastructure, CI/CD, security, and operational maintenance.
-* Comfortable debugging issues across the entire stack rather than within a single framework.
-
-**Full-Stack Architecture**
-- Production-ready Laravel applications
-- SSR/SSG/CSR/Hybrid with Nuxt.js
-- Real-time data synchronization between frontend and backend
-
-**DevOps & Deployment**
-- Linux/VPS management and hardening
-- CI/CD workflows and automated deployments
-- Performance optimization (CDN, caching, load balancing)
-
-**Problem Solving**
-- Complete project ownership from design to production
-- Zero-downtime deployments and system maintenance
-- Legacy codebase refactoring and modernization
-
----
-
-## Get In Touch
-
-I'd love to connect and discuss collaboration opportunities, exciting projects, or just tech in general!
-
-- **Email**: [hamzarazzaque5@gmail.com](mailto:hamzarazzaque5@gmail.com)
-- **Phone**: +92 327 2048735
-- **GitHub**: [github.com/HI-Developer25](https://github.com/HI-Developer25)
-- **Website**: [gwadargymkhana.com.pk](https://gwadargymkhana.com.pk)
-- **Location**: Karachi, Pakistan
-
----
-
-## Education
-
-- **Pre-Engineering (HSC-I & II)** – DJ Sindh Govt. Science College, BIEK, Karachi *(2025)* – 70%
-- **Matriculation (Science)** – Roshni Public School, BSEK, Karachi *(2023)* – 84%
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ Gwadar Gymkhana — Website</h3>
+      <img src="https://img.shields.io/badge/🟢%20LIVE-success?style=flat-square" />
+      <img src="https://img.shields.io/badge/Sole%20Developer-black?style=flat-square" />
+      <p>Official website of a private members' club.</p>
+      <ul>
+        <li>Nuxt 4 with server-side rendering</li>
+        <li>Online payments with Bank Alfalah</li>
+        <li>HMAC-signed payment redirects</li>
+        <li>Leads sent straight to the CRM</li>
+      </ul>
+      <a href="https://github.com/HI-Developer25/professional-projects/tree/main/Gwadar-Gymkhana-Website"><b>📖 Read case study →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👤 Gwadar Gymkhana — Member Portal</h3>
+      <img src="https://img.shields.io/badge/🟢%20LIVE-success?style=flat-square" />
+      <img src="https://img.shields.io/badge/Sole%20Developer-black?style=flat-square" />
+      <p>Members manage everything online.</p>
+      <ul>
+        <li>BFF design: browser never hits the API</li>
+        <li>Login with phone + OTP</li>
+        <li>Pay dues online</li>
+        <li>English / Urdu (RTL) forms</li>
+      </ul>
+      <a href="https://github.com/HI-Developer25/professional-projects/tree/main/Gwadar-Gymkhana-Member-Portal"><b>📖 Read case study →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📺 VSH News — Ad Platform</h3>
+      <img src="https://img.shields.io/badge/🟢%20LIVE-success?style=flat-square" />
+      <img src="https://img.shields.io/badge/Sole%20Developer-black?style=flat-square" />
+      <p>Fast, animated site for a TV channel's ad sales.</p>
+      <ul>
+        <li>Vue 3 + Vite single-page app</li>
+        <li>Ad packages in clear price tiers</li>
+        <li>Global lead form linked to a CRM</li>
+        <li>Digital magazine archive</li>
+      </ul>
+      <a href="https://github.com/HI-Developer25/professional-projects/tree/main/VSH-News-Advertising-Platform"><b>📖 Read case study →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📦 ERP & Logistics Systems</h3>
+      <img src="https://img.shields.io/badge/✅%20COMPLETED-blue?style=flat-square" />
+      <img src="https://img.shields.io/badge/Backend%20Developer-black?style=flat-square" />
+      <p>ERP modules for small retail businesses.</p>
+      <ul>
+        <li>Inventory, POS, sales, purchasing</li>
+        <li>Laravel, Yii, and CodeIgniter</li>
+        <li>4+ courier APIs for live tracking</li>
+        <li>500+ orders a day</li>
+      </ul>
+      <a href="https://github.com/HI-Developer25/professional-projects/tree/main/ERP-Logistics-System"><b>📖 Read case study →</b></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Fun Facts
+## 🏆 Results That Matter
 
-- Built a complete web platform as a solo developer while maintaining zero downtime for live systems
-- Passionate about code quality and best practices – REST APIs and OOP design are my playground
-- From ERP systems to payment integrations to smooth animations – I love the full stack
-- Driven by continuous improvement and delivering solutions that scale
-
----
-
-## Let's Build Something Great!
-
-Whether you're interested in discussing full-stack development, Laravel best practices, Vue.js optimization, or collaborating on your next big project – I'm here and excited to connect with fellow developers and businesses!
-
-**Happy coding!**
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡%20Load%20Time-−50%25-00DC82?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📉%20Stock%20Errors-−50%25-2088FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📦%20Daily%20Orders-500%2B-FF2D20?style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🧩%20ERP%20Modules-5%2B-6f42c1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚚%20Courier%20APIs-4%2B-F38020?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🛡️%20Security%20Incidents-0-success?style=for-the-badge" />
+</p>
 
 ---
 
-<div align="center">
+## 🏗️ How My Apps Are Built
 
-**If you find my work interesting, feel free to star my repositories and follow me on GitHub!**
+```
+┌──────────────────────────┐          ┌──────────────────────────┐
+│   Nuxt / Vue Frontend    │   REST   │     Laravel REST API     │
+│   SSR or BFF proxy layer │◄────────►│  auth · data · payments  │
+└──────────────────────────┘          └────────────┬─────────────┘
+                                                   │
+                ┌──────────────────────────────────┼───────────────────────────┐
+                ▼                                  ▼                           ▼
+        💳 Payment Gateways               📇 CRM / Leads              🚚 Courier APIs
+        signed (HMAC) redirects           webhook delivery            shipment tracking
+```
 
-</div>
+| ⚙️ Area | 🛠️ What I Do |
+|---|---|
+| **CI/CD** | GitHub Actions → lint → typecheck → deploy with SSH / rsync |
+| **Zero downtime** | PM2 `startOrReload`, no dropped requests |
+| **Proxy & SSL** | Apache reverse proxy + Cloudflare DNS, CDN, SSL |
+| **Safe testing** | Staging sites locked behind Cloudflare Access |
+| **Config** | No secrets in code, only environment variables |
+
+---
+
+## 💼 Experience
+
+```
+📍 Software Developer  @ Gwadar Gymkhana     Nov 2025 → Present
+   └─ Built and run the full platform alone: website, member portal, servers, CI/CD
+
+📍 PHP Developer       @ Cartzlink           Nov 2024 → Apr 2025
+   └─ Built 5+ ERP modules, linked 4+ courier APIs, cut stock errors by 50%
+```
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img height="170" src="https://hi-stats-ashen.vercel.app/api?username=HI-Developer25&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img height="170" src="https://hi-stats-ashen.vercel.app/api/top-langs/?username=HI-Developer25&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HI-Developer25&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HI-Developer25&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 📬 Let's Build Something Together
+
+<p align="center">
+  <a href="mailto:hamzarazzaque5@gmail.com"><img src="https://img.shields.io/badge/Email-hamzarazzaque5%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/HI-Developer25/professional-projects"><img src="https://img.shields.io/badge/Portfolio-professional--projects-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://gwadargymkhana.com.pk"><img src="https://img.shields.io/badge/Live-gwadargymkhana.com.pk-2b6cb0?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <b>Need someone who can build it, ship it, and keep it running? Let's talk. 🤝</b>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,50:2088FF,100:00DC82&height=120&section=footer" />
+</p>
