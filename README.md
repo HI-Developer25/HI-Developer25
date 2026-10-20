@@ -35,7 +35,7 @@ class HamzaRazzaque
     public string $current  = 'Sole developer @ Gwadar Gymkhana';
 
     public array $backend   = ['Laravel', 'PHP', 'Sanctum', 'Yii', 'CodeIgniter'];
-    public array $frontend  = ['Vue 3', 'Nuxt 4', 'TypeScript', 'Tailwind', 'GSAP'];
+    public array $frontend  = ['Vue 3', 'Nuxt 4', 'TypeScript', 'Tailwind', 'ShadcnUI'];
     public array $devops    = ['Linux VPS', 'PM2', 'Apache', 'Cloudflare', 'GitHub Actions'];
 
     public function motto(): string
