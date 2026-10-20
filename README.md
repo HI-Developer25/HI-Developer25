@@ -55,22 +55,37 @@ class HamzaRazzaque
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,vue,nuxtjs,ts,js,tailwind,vite&theme=dark" />
+  <a href="https://laravel.com" target="_blank"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel" /></a>
+  <a href="https://www.php.net" target="_blank"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" /></a>
+  <a href="https://vuejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue" /></a>
+  <a href="https://nuxt.com" target="_blank"><img src="https://skillicons.dev/icons?i=nuxtjs&theme=dark" alt="Nuxt" /></a>
+  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /></a>
+  <a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" /></a>
+  <a href="https://vite.dev" target="_blank"><img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" /></a>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,linux,bash,pnpm,cloudflare,git,github,githubactions&theme=dark" />
+  <a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" /></a>
+  <a href="https://www.linux.org" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" /></a>
+  <a href="https://pnpm.io" target="_blank"><img src="https://skillicons.dev/icons?i=pnpm&theme=dark" alt="pnpm" /></a>
+  <a href="https://www.cloudflare.com" target="_blank"><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" alt="Cloudflare" /></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
+  <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="GitHub Actions" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel%20Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Yii-005A9C?style=flat-square&logo=yii&logoColor=white" />
-  <img src="https://img.shields.io/badge/CodeIgniter-EE4623?style=flat-square&logo=codeigniter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nuxt%20UI-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webuzo-2C3E50?style=flat-square" />
-  <img src="https://img.shields.io/badge/Plesk-52BBE6?style=flat-square&logo=plesk&logoColor=white" />
+  <a href="https://laravel.com/docs/sanctum" target="_blank"><img src="https://img.shields.io/badge/Laravel%20Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel Sanctum" /></a>
+  <a href="https://www.yiiframework.com" target="_blank"><img src="https://img.shields.io/badge/Yii-005A9C?style=flat-square&logo=yii&logoColor=white" alt="Yii" /></a>
+  <a href="https://codeigniter.com" target="_blank"><img src="https://img.shields.io/badge/CodeIgniter-EE4623?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter" /></a>
+  <a href="https://ui.nuxt.com" target="_blank"><img src="https://img.shields.io/badge/Nuxt%20UI-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white" alt="Nuxt UI" /></a>
+  <a href="https://ui.shadcn.com" target="_blank"><img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" /></a>
+  <a href="https://gsap.com" target="_blank"><img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" /></a>
+  <a href="https://zod.dev" target="_blank"><img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="MSSQL" /></a>
+  <a href="https://pm2.keymetrics.io" target="_blank"><img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" alt="PM2" /></a>
+  <a href="https://webuzo.com" target="_blank"><img src="https://img.shields.io/badge/Webuzo-2C3E50?style=flat-square" alt="Webuzo" /></a>
+  <a href="https://www.plesk.com" target="_blank"><img src="https://img.shields.io/badge/Plesk-52BBE6?style=flat-square&logo=plesk&logoColor=white" alt="Plesk" /></a>
 </p>
 
 ---
